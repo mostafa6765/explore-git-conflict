@@ -1,5 +1,5 @@
 APP_NAME = "FigyTerm"
-APP_VERSION = "1.0.0"
+APP_VERSION = "2.0.0"
 
-DEBUG = False
-PORT = 8000
+DEBUG = True
+PORT = 9000
