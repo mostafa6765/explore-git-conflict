@@ -1,7 +1,7 @@
 def greet(name):
-    message = f"Hi, {name}"
+    message = f"Welcome, {name}"
     print(message)
 
 
 def calculate(a, b):
-    return a - b
+    return a * b
